@@ -3,7 +3,7 @@ import requests
 import json
 
 api_url = 'http://api.weatherstack.com/current'
-access_key = '47bacc75fc68861631b58fb317d8f80c'
+access_key = 'YOUR_API_KEY'
 
 
 def get_weather():
